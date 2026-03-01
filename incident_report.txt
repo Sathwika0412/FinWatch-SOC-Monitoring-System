@@ -1,3 +1,3 @@
-IR-2026-001 | Brute Force Attack | 192.168.1.10 | HIGH | 6 failed login attempts
-IR-2026-002 | Suspicious After-Hours Login | 192.168.1.50 | MEDIUM | Login at 2026-02-25 23:45:11
-IR-2026-003 | Phishing Activity Detected | 192.168.1.77 | HIGH | User clicked phishing link at 2026-02-25 14:12:33
+{'id': 'IR-2026-001', 'type': 'Brute Force Attack', 'ip': '192.168.1.10', 'severity': 'HIGH', 'details': '6 failed login attempts'}
+{'id': 'IR-2026-002', 'type': 'Suspicious After-Hours Login', 'ip': '192.168.1.50', 'severity': 'MEDIUM', 'details': 'Login at 2026-02-25 23:45:11'}
+{'id': 'IR-2026-003', 'type': 'Phishing Activity Detected', 'ip': '192.168.1.77', 'severity': 'HIGH', 'details': 'User clicked phishing link at 2026-02-25 14:12:33'}
